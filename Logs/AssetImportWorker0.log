@@ -159,3 +159,265 @@ Received Import Request.
 Start importing Assets/Audio using Guid(634dea568237cff4e94d5a811f19f373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883c8cea6699adb61fd31e0f693c7786') in 0.001506 seconds 
   Import took 0.082215 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4153.282935 seconds.
+  path: Assets/Prefabs/Floor.prefab
+  artifactKey: Guid(4742b19cddcb6498a985c99bde7dbc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Floor.prefab using Guid(4742b19cddcb6498a985c99bde7dbc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47798277854d5b6d0d0bd4e4c686e7ec') in 0.527357 seconds 
+  Import took 0.532466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Prefabs/SimpleLevelBlock.prefab
+  artifactKey: Guid(cb0d2c6f4f6b14fcc90da94309fb9a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SimpleLevelBlock.prefab using Guid(cb0d2c6f4f6b14fcc90da94309fb9a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f1d3e7a732a9a0e91715ec7c79dda1') in 0.010932 seconds 
+  Import took 0.035664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(62359dbec881e4a0a8ba81638de6e92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(62359dbec881e4a0a8ba81638de6e92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79c3cb80c80ee2a39d09b2360074df8') in 0.149827 seconds 
+  Import took 0.154143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.849060 seconds.
+  path: Assets/Prefabs/Square.png
+  artifactKey: Guid(844914a7ea844cb4387601764c2e19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Square.png using Guid(844914a7ea844cb4387601764c2e19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd88f2ca258e6ccc389b46cab7500c10') in 0.107002 seconds 
+  Import took 0.132259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.266975 seconds.
+  path: Assets/Prefabs/Square.png
+  artifactKey: Guid(df16416b4a43b09489146da308aa48c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Square.png using Guid(df16416b4a43b09489146da308aa48c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3de78fd715b7a91b10aa8c1e05047c') in 0.010125 seconds 
+  Import took 0.094589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.802531 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.007562 seconds 
+  Import took 0.360956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027702 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.003021 seconds 
+  Import took 0.007794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.129258 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_1.png
+  artifactKey: Guid(2613de1adad0541748c8202bdef03752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_1.png using Guid(2613de1adad0541748c8202bdef03752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4187f8dc7552f132cc3c41937b21a5d6') in 0.019145 seconds 
+  Import took 0.023765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_2.png
+  artifactKey: Guid(48a06187fbed944eb8fdcdf7d534bfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_2.png using Guid(48a06187fbed944eb8fdcdf7d534bfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303b3a5aaf69597be20a139e9a0947bb') in 0.016865 seconds 
+  Import took 0.027867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_3.png
+  artifactKey: Guid(355dfe56bf7354f28a1b3773d985b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_3.png using Guid(355dfe56bf7354f28a1b3773d985b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c81048644db94751475ea586e6a99e') in 0.015334 seconds 
+  Import took 0.019885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_1.png
+  artifactKey: Guid(2613de1adad0541748c8202bdef03752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_1.png using Guid(2613de1adad0541748c8202bdef03752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4187f8dc7552f132cc3c41937b21a5d6') in 0.010605 seconds 
+  Import took 0.015131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_1.png
+  artifactKey: Guid(ed889ce9dcd0c43a1a05a5ac014e5374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_1.png using Guid(ed889ce9dcd0c43a1a05a5ac014e5374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5abe17746b4e763cccff27eb2c6936') in 0.013347 seconds 
+  Import took 0.022549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_3.png
+  artifactKey: Guid(eb05a0006986143fcb39c7d4fd5d0d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_3.png using Guid(eb05a0006986143fcb39c7d4fd5d0d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbdb29d83ef70eb64582b04188fe6177') in 0.012869 seconds 
+  Import took 0.018094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_5.png
+  artifactKey: Guid(872f73df5d687429e97aa23bfb0be790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_5.png using Guid(872f73df5d687429e97aa23bfb0be790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245536a46d4791ece5738648f1e10c2a') in 0.011784 seconds 
+  Import took 0.016754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_1.png
+  artifactKey: Guid(f0eea904e674a4fa38cd7497ca1bd755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_1.png using Guid(f0eea904e674a4fa38cd7497ca1bd755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b517ebbad3520243cb7eee1d4978dfd4') in 0.011599 seconds 
+  Import took 0.024600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_2.png
+  artifactKey: Guid(7b2a22f10f5794bcfb9a6234cb277380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_2.png using Guid(7b2a22f10f5794bcfb9a6234cb277380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7cbac30dcaaf5e6986d1df6442d1a15') in 0.009831 seconds 
+  Import took 0.014421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_2.png
+  artifactKey: Guid(68958079369514f538dd97bfcf9e4ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_2.png using Guid(68958079369514f538dd97bfcf9e4ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a8aad45576932a205fce181dd7b741') in 0.010937 seconds 
+  Import took 0.020380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_5.png
+  artifactKey: Guid(bc0727cca3a974b5b97825e67993a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_5.png using Guid(bc0727cca3a974b5b97825e67993a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4643233acfbcd8cb966048d378d1b5b') in 0.010144 seconds 
+  Import took 0.014595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_4.png
+  artifactKey: Guid(4a8572d54d3d046d1ae69e6a6f4c3895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_4.png using Guid(4a8572d54d3d046d1ae69e6a6f4c3895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf208b8cc9f3d5d48d0f5664804b4a16') in 0.010944 seconds 
+  Import took 0.014228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/ground/Grass/ground-tile.png
+  artifactKey: Guid(d19a50fe740584da2874d3fbe3b57a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/ground/Grass/ground-tile.png using Guid(d19a50fe740584da2874d3fbe3b57a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e87e87e0049cd17a22fcd1cf01879c') in 0.012215 seconds 
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_4.png
+  artifactKey: Guid(291568b909ae34f95bee325f60929117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_4.png using Guid(291568b909ae34f95bee325f60929117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d884972980eb913e8e1cc5df6126f2') in 0.012983 seconds 
+  Import took 0.017904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_3.png
+  artifactKey: Guid(ce37186cf95be404c8361add07f51482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_hit_3.png using Guid(ce37186cf95be404c8361add07f51482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d6c4149cae6e95092c31cf09b47584') in 0.009617 seconds 
+  Import took 0.013896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_4.png
+  artifactKey: Guid(3a544ca364a4c4182972c4441c50ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_4.png using Guid(3a544ca364a4c4182972c4441c50ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad35dd0a3cede3a275324054b81dff49') in 0.012262 seconds 
+  Import took 0.016065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_4.png
+  artifactKey: Guid(291568b909ae34f95bee325f60929117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_jump_4.png using Guid(291568b909ae34f95bee325f60929117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d884972980eb913e8e1cc5df6126f2') in 0.009545 seconds 
+  Import took 0.013176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005529 seconds.
+  path: Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_4.png
+  artifactKey: Guid(3a544ca364a4c4182972c4441c50ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny-run-assets/PNG/bunny/bunny_walk_4.png using Guid(3a544ca364a4c4182972c4441c50ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad35dd0a3cede3a275324054b81dff49') in 0.010622 seconds 
+  Import took 0.018753 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.118 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2538.
+Total: 2.332100 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.057700 ms MarkObjects: 1.979000 ms  DeleteObjects: 0.124100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2542.
+Total: 2.260400 ms (FindLiveObjects: 0.173300 ms CreateObjectMapping: 0.075000 ms MarkObjects: 1.911100 ms  DeleteObjects: 0.100200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
